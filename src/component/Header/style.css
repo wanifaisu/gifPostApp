@@ -1,0 +1,33 @@
+.nextHeader {
+  background-color: #0073a8;
+}
+.link {
+  color: #fff !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  font-size: 18px;
+}
+.link:hover {
+  color: #f8efa7 !important;
+}
+
+.link2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  color: #fff !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  font-size: 18px;
+}
+
+.hoverNav:hover {
+  color: #f8efa7 !important;
+}
+p {
+  font-family: Oswald;
+  font-size: 24px;
+  animation: Color 4s linear infinite;
+  background-color: rgb(16, 214, 79), rgb(27, 67, 123), rgb(230, 184, 34) !important;
+}
